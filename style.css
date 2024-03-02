@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/pexels-andrei-tanase-1271619.jpg);
+    background-size: cover;
+}
+#navbar li{
+display: inline-block;
+
+}
+#navbar p{
+    margin-right: 100px ;
+    
+}
+#nav-bar{
+    margin-left:200px ;
+    margin-top: 2px;
+}
+#main-header{
+    display: flex;
+    font-size: 20px;
+}
+#person{
+    display: flex;
+    margin-left: 30%;
+    padding: 20px;
+}
+
+#blog{
+    justify-content: center;
+    text-align: center;
+    margin-top: 13%;
+
+}
