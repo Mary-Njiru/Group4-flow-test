@@ -69,5 +69,39 @@ h4{
     color: bisque;
 }
 
+h1{
+    color: bisque;
+}
+h2{
+    
+    color: white;
+    font-size: 57px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    
+
+    
+}
+.text{
+    color: bisque;
+}
+
+#page{
+    display: flex;
+    gap: 7%;
+    background-color: skyblue;
+    
+}
+#container1{
+    margin-left: 8%;
+    margin-top: 8%;
+}
+#container2{
+    margin-top: 8%;
+    
+}
+
 
 
