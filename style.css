@@ -28,8 +28,14 @@ display: inline-block;
     justify-content: center;
     text-align: center;
     margin-top: 13%;
+    font-size: x-large;
 
 }
+.word{
+    color: bisque;
+}
+
+
 .container{
     
     width:100% ;
@@ -37,7 +43,7 @@ display: inline-block;
     display: flex;
     font-size: x-large;
     background-color: skyblue;
-    margin-top: 70%;
+    margin-top: 100%;
 }
 body{
     background-color: skyblue;
@@ -101,6 +107,28 @@ p{
 #container2{
     margin-top: 8%;
     
+}
+
+.form{
+    display: flex;
+    gap: 40px;
+    font-size: x-large;
+    color: white;
+    background-color: skyblue;
+}
+
+
+h3{
+    color: bisque;
+}
+h1{
+    color: white;
+}
+.for{
+    margin-left: 10%;
+}
+.blog{
+    margin-left: 30%;
 }
 
 
