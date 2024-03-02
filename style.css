@@ -43,3 +43,31 @@ body{
     background-color: skyblue;
 }
 
+#container{
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+
+.paragraph{
+    display: grid;
+    color: white;
+    font-size: x-large;
+    margin-top: 8%;
+    margin-right: 170px;
+
+}
+#image{
+    padding: 40px;
+}
+
+
+h1{
+    color: bisque;
+}
+h4{
+    color: bisque;
+}
+
+
+
